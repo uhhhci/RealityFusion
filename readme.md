@@ -11,7 +11,7 @@ Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Dat
 **Source code coming soon!**
 
 
-## Citations
+## Citation
 
 ```bibtex
 @article{reality-fusion,
@@ -26,4 +26,4 @@ Contact: keli95566@gmail.com
 
 ## Acknowledgment
 
-This work was supported by DASHH (Data Science in Hamburg - HELMHOLTZ Graduate School for the Structure of Matter) with the Grant-No. HIDSS-0002, and the German Federal Ministry of Education and Research (BMBF).
+This work was supported by DASHH (Data Science in Hamburg - HELMHOLTZ Graduate School for the Structure of Matter) with the Grant-No. HIDSS-0002.
