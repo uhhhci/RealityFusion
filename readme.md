@@ -16,7 +16,7 @@ Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Dat
 ```bibtex
 @article{reality-fusion,
         author ={Li, Ke  and Bacher, Reinhard and Schmidt, Susanne and Leemans, Wim  and Steinicke, Frank },
-        title  ={Magic NeRF lens: interactive fusion of neural radiance fields for virtual facility inspection},
+        title  ={Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion},
         journal={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
         year   = {2024},
         note   = {to appear}
