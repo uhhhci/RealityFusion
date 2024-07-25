@@ -1,5 +1,4 @@
 ## Reality Fusion
-Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion
 
 **Reality fusion** is a high performance and robust immersive robot teleoperation system that combines the best of both worlds: the high fidelity of neural rendering (3D Gaussian Splattings) and real-time stereoscopic point cloud projection. 
 
@@ -13,6 +12,7 @@ Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Dat
 
 ## Citation
 
+Link to preprint: [Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion](https://www.edit.fis.uni-hamburg.de/ws/files/55138101/Camera_Ready.pdf)
 ```bibtex
 @article{reality-fusion,
         author ={Li, Ke  and Bacher, Reinhard and Schmidt, Susanne and Leemans, Wim  and Steinicke, Frank },
