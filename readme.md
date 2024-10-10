@@ -7,8 +7,11 @@
       style="height:350px;"/>
 
 
-**Source code coming soon!**
+## Documentations
 
+1. [Reality Fusion Unity Project](./docs/unity.md): Documentations for the ```RealityFusionUnity``` Unity project and source code for VR robot control applciations. 
+2. [Reality Fusion Native Render Plugin](./docs/renderplugin.md): Instruction for compiling the original 3DGS Cmake project for a Unity native render plugin. Apre-compiled DLL files already avaliable in ```Assest\Plugins\x86x64``` in the Unity project. 
+3. [Reality Fusion Robot Setup](./docs/robot.md): Documentation for setting up the robot, including required packages. 
 
 ## Citation
 
@@ -27,3 +30,7 @@ Contact: keli95566@gmail.com
 ## Acknowledgment
 
 This work was supported by DASHH (Data Science in Hamburg - HELMHOLTZ Graduate School for the Structure of Matter) with the Grant-No. HIDSS-0002.
+
+## License
+
+Please check out [INRIA's original license](./LICENSE.md) regarding the original implementation of 3DGS. 
