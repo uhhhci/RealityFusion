@@ -10,7 +10,7 @@
 ## Documentations
 
 1. [Reality Fusion Unity Project](./docs/unity.md): Documentations for the ```RealityFusionUnity``` Unity project and source code for VR robot control applciations. 
-2. [Reality Fusion Native Render Plugin](./docs/renderplugin.md): Instruction for compiling the original 3DGS Cmake project for a Unity native render plugin. Apre-compiled DLL files already avaliable in ```Assest\Plugins\x86x64``` in the Unity project. 
+2. [Native Render Plugin](./docs/renderplugin.md): Instruction for compiling the original 3DGS Cmake project for a Unity native render plugin. Apre-compiled DLL files already avaliable in ```Assest\Plugins\x86x64``` in the Unity project. The source code for the native renderer is in the ``3DGSUnityPlugin`` folder. 
 3. [Reality Fusion Robot Setup](./docs/robot.md): Documentation for setting up the robot, including required packages. 
 
 ## Citation
