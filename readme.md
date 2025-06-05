@@ -3,7 +3,7 @@
 **Reality fusion** is a high performance and robust immersive robot teleoperation system that combines the best of both worlds: the high fidelity of neural rendering (3D Gaussian Splattings) and real-time stereoscopic point cloud projection. 
 
   <img src="./images/realityFusionDemo.gif"
-      alt="MR Tunneling Demo" 
+      alt="reality fusion" 
       style="height:350px;"/>
 
 
@@ -15,15 +15,20 @@
 
 ## Citation
 
-Link to preprint: [Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion](https://www.edit.fis.uni-hamburg.de/ws/files/55138101/Camera_Ready.pdf)
+Link to paper: [Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion](https://www.edit.fis.uni-hamburg.de/ws/files/55138101/Camera_Ready.pdf)
+
 ```bibtex
-@article{reality-fusion,
-        author ={Li, Ke  and Bacher, Reinhard and Schmidt, Susanne and Leemans, Wim  and Steinicke, Frank },
-        title  ={Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion},
-        journal={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-        year   = {2024},
-        note   = {to appear}
-        }
+@INPROCEEDINGS{10802431,
+  author={Li, Ke and Bacher, Reinhard and Schmidt, Susanne and Leemans, Wim and Steinicke, Frank},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={8982-8989},
+  keywords={Visualization;Three-dimensional displays;Telepresence;Robot control;Virtual reality;Robot sensing systems;Rendering (computer graphics);Spatial resolution;Streams;Research and development},
+  doi={10.1109/IROS58592.2024.10802431}}
+
 ```
 Contact: keli95566@gmail.com
 
